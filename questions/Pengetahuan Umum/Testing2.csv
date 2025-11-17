@@ -1,0 +1,21 @@
+id,question,optionA,optionB,optionC,optionD,answer
+1,Hasil dari 2^3 adalah?,4,6,8,16,C
+2,Bentuk sederhana dari 3^2 × 3^3 adalah?,3^5,3^6,3^2,3^1,A
+3,Hasil dari 5^0 adalah?,0,1,5,10,B
+4,Bentuk sederhana dari (2^4)/(2^2) adalah?,2^1,2^2,2^3,2^4,B
+5,Hasil dari (3^3)^2 adalah?,3^6,3^5,6^3,9^3,A
+6,Bentuk sederhana dari 10^2 × 10^3 adalah?,10^5,10^6,10^3,10^1,A
+7,Nilai dari 4^-1 adalah?,1/4,4,1/2,2,A
+8,Bentuk sederhana dari (7^2)/(7^3) adalah?,7^5,7^1,7^-1,7^-5,C
+9,Hasil dari (2×3)^2 adalah?,6^2,12,36,9,C
+10,Bentuk sederhana dari 9 × 3^2 adalah?,3^2 × 3^2,3^3,3^4,3^1,C
+11,Hasil dari 8^1 adalah?,16,4,2,8,D
+12,Bentuk sederhana dari (5^3)/(5^1) adalah?,5^4,5^2,5^1,5^0,B
+13,Hasil dari 6^2 adalah?,12,36,18,6,B
+14,Bentuk sederhana dari 4^3 × 4^-1 adalah?,4^2,4^3,4^4,4^5,A
+15,Hasil dari 2^5 adalah?,8,32,64,16,B
+16,Bentuk sederhana dari (a^3)(a^4) adalah?,a^7,a^12,a^1,a^3,A
+17,Hasil dari (5^2)^3 adalah?,5^5,5^6,5^8,5^3,B
+18,Bentuk sederhana dari 7^-2 adalah?,1/7^2,7^2,7,1/7,A
+19,Hasil dari 3^4 adalah?,27,12,81,64,C
+20,Bentuk sederhana dari (9)/(3^2) adalah?,1,3,9,1/3,A
